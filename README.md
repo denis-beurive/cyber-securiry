@@ -18,7 +18,7 @@ Dans ce document, nous présentons l'utilisation des navigateurs suivants:
 **Note**: certains sites marchands ne sont pas compatibles avec Firefox. Dans ce cas, vous pouvez utiliser Brave. N'oubliez pas de signaler le problème au site marchand en insistant sur le fait que ce dernier, en ne rendant pas son site utilisable avec Firefox, incite ses clients à utiliser Chrome. Et, ce faisant, il encourage la collecte d'information sauvage par Google d'information relative à la vie privée de ses clients.
 
 * [Ce lien](firefox.md) présente la configuration pour Firefox.
-
+* [Ce lien](brave.md) présente la configuration pour Brave.
 
 
 
