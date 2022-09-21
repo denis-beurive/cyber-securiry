@@ -36,7 +36,7 @@ Procédure à suivre pour l'utilisation du gestionnaire de mot de passe [KeePass
 
 Une fois intallé, le plugin est accessible en cliquant sur l'icône ci-dessous:
 
-![](images/brave/brave-plugin.png)
+![](images/brave/brave-plugins.png)
 ![](images/brave/keypassxc.png)
 
 Une fois le plugin Chromium KeePassXC-Browser installé sur le navigateur, il faut configurer le plugin et l'application:
