@@ -37,21 +37,22 @@ Procédure à suivre pour l'utilisation du gestionnaire de mot de passe [KeePass
 Une fois intallé, le plugin est accessible en cliquant sur l'icône ci-dessous:
 
 ![](images/brave/brave-plugins.png)
-![](images/brave/keypassxc.png)
+
+![](images/brave/keepassxc.png)
 
 Une fois le plugin Chromium KeePassXC-Browser installé sur le navigateur, il faut configurer le plugin et l'application:
 
-![](images/brave/keypassxc-params.png)
+![](images/brave/brave-keepassxc-params.png)
 
-![](images/keypassxc/browser-integration.png)
+![](images/keepassxc/browser-integration.png)
 
 Attention: 
 
 Les URLs **des formulaires d'authentification** doivent être renseignées dans l'application KeePassXC (sinon le plugin ne trouvera pas les identifiants de connexion).
 
-![](images/keypassxc/password-entry.png)
+![](images/keepassxc/password-entry.png)
 
 Si un formulaire d'identification est affiché sur une page, le plugin interroge l'application KeePassXC afin de déterminer si des paramètres d'identification sont disponibles pour ce formulaire. Le cas échéant, le logo de l'application KeePassXC est visible sur le formulaire.
 
-![](images/keypassxc/form-indicator.png)
+![](images/keepassxc/form-indicator.png)
 
