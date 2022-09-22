@@ -13,9 +13,8 @@ Avantage du stockage des mots de passe localement (sur le disque de votre ordina
 
 Inconvénient du stockage des mots de passe localement (sur le disque de votre ordinateur):
 
-**La synchronisation de la base de mots de passe entre plusieurs machines est délicate.** Si vous utilisez plusieurs ordinateurs, synchroniser votre base de mots de passe entre tous vos ordinateurs demande une certaine rigueur. Les solutions payantes qui stockent votre base de mots de passe sur un "cloud" rendent la synchronisation de la base complètement transparente.
-
-**Vous ne perdez pas vos mots de passe si votre ordinateur rend l'âme.** Imaginez que votre ordinateur périsse dans un incendie. Vos mots de passe étant stockés sur un "cloud", vous pouvez toujours les récupérer! Veuillez noter, cependant, que, si vous stockez votre base de mots de passe localement, sur le disque dur de votre ordinateur, rien ne vous empêche de faire des sauvegardes! Vous pouvez sauvegarder la base de mots de passe sur un "cloud", par exemple... ou sur quelques clés USB.
+* **La synchronisation de la base de mots de passe entre plusieurs machines est délicate.** Si vous utilisez plusieurs ordinateurs, synchroniser votre base de mots de passe entre tous vos ordinateurs demande une certaine rigueur. Les solutions payantes qui stockent votre base de mots de passe sur un "cloud" rendent la synchronisation de la base complètement transparente.
+* **Vous ne perdez pas vos mots de passe si votre ordinateur rend l'âme.** Imaginez que votre ordinateur périsse dans un incendie. Vos mots de passe étant stockés sur un "cloud", vous pouvez toujours les récupérer! Veuillez noter, cependant, que, si vous stockez votre base de mots de passe localement, sur le disque dur de votre ordinateur, rien ne vous empêche de faire des sauvegardes! Vous pouvez sauvegarder la base de mots de passe sur un "cloud", par exemple... ou sur quelques clés USB.
 
 ## Installation de KeepassXC sur votre ordinateur
 
@@ -59,7 +58,7 @@ En résumé:
 
 4. Cliquez sur `Bases de données connectées` => `Connecter`
 
-![](images/keepassxc/browser-first-connection.png)
+![](images/keepassxc/browser-first-use-connection.png)
 
 5. Dans la fenêtre qui s'ouvre, entrez un nom de connexion.
 
