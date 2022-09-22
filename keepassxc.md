@@ -44,15 +44,17 @@ En résumé, vous devez activer l'intégration avec les plugins installés sur l
 
 ![](images/keepassxc/browser-app-config.png)
 
+> Si vous souhaitez utiliser le navigateur [Brave](https://brave.com/fr/), il faut cocher "Chromium".
+
 Une fois l'application KeepassXC configurée, vous devez configurer le plugin KeePassXC-Browser.
 
 En résumé:
 
 1. Assurez-vous que l'application KeePassXC s'exécute et a été déverrouillée (via l'entrée du mot de passe).
 
-2. Assurez-vous que l'application KeePassXC est bien configurée pour autoriser la connexion du plugin KeePassXC-Browser à installer sur votre navigateur (Firefox, Chrome, Chromium, Brave...).
+2. Assurez-vous que l'application KeePassXC est configurée pour autoriser une connexion en provenance navigateur sur lequel est installé le plugin KeePassXC-Browser (Firefox, Chrome, Chromium, Brave...). _Veuillez noter que cette configuration a été effectuée précédemment_.
 
-3. Dans le navigateur, cliquez sur l'icône du plugin.
+3. Dans le navigateur, cliquez sur l'icône du plugin. Puis cliquez que l'icône de paramétrage.
 
 ![](images/keepassxc/browser-first-use.png)
 
@@ -61,6 +63,8 @@ En résumé:
 ![](images/keepassxc/browser-first-use-connection.png)
 
 5. Dans la fenêtre qui s'ouvre, entrez un nom de connexion.
+
+> Il faut attribuer un nom de connexion différent pour chaque navigateur (un nom de connexion pour Firefox, un nom de connexion pour Brave...).
 
 À ce stade, le navigateur fera appel à l'application KeePassXC pour renseigner les formulaires d'authentification.
 
