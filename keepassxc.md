@@ -71,3 +71,12 @@ En résumé:
 Attention: afin que le KeePassXC renseigne les paramètres d'un formulaire d'authentification, vous devez renseigner l'URL (exacte) de la page qui contient le formulaire. Par exemple:
 
 ![](images/keepassxc/browser-app-url.png)
+
+# Notes utiles
+
+## Exporter la base de mots de passe de Firefox
+
+Sous Firefox, il est possible d'exporter la base de mots de passe enregistrés: https://support.mozilla.org/en-US/kb/export-login-data-firefox
+
+> Veuillez noter que la documentation en ligne publiée par Mozilla n'est pas correcte. Il faut ouvrir le menu principal, puis sélectionner: `Paramètres` => `Vie privée et sécurité` => `Identifiants et mots de passe` => `Identifiants enregistrés...` et, enfin, dans le menu "`...`" (en haut, à droite), cliquer sur `Exporter les identifiants...`.
+
